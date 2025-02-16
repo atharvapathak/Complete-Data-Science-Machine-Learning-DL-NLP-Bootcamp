@@ -1,0 +1,1 @@
+Write a function that appends a given string to the end of a file named `log.txt`.Write a function that appends a given string to the end of a file named `log.txt`.
